@@ -114,7 +114,8 @@ const JewelryBanner = () => {
                       <span>{item.subtitle}</span>
                       <h3 className="tp-slider-title-4">{item.title}</h3>
                       <div className="tp-slider-btn-4">
-                        <Link href="/shop" className="tp-btn tp-btn-border tp-btn-border-white">Discover Now</Link>
+{/*                         <Link href="/shop" className="tp-btn tp-btn-border tp-btn-border-white">Discover Now</Link> */}
+                        <Link  className="tp-btn tp-btn-border tp-btn-border-white">Discover Now</Link>
                       </div>
                     </div>
                   </div>
