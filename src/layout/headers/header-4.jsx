@@ -38,9 +38,9 @@ const HeaderFour = () => {
                 </div>
                 <div className="col-xl-8 col-lg-8 d-none d-lg-block">
                   <div className="main-menu menu-style-3 menu-style-4 p-relative">
-                    <nav className="tp-main-menu-content">
+{/*                     <nav className="tp-main-menu-content">
                       <Menus />
-                    </nav>
+                    </nav> */}
                   </div>
                 </div>
                 <div className="col-xl-2 col-lg-2 col-6">
@@ -64,9 +64,9 @@ const HeaderFour = () => {
                       </button>
                     </div>
                     <div className="tp-header-action-item d-lg-none">
-                      <button onClick={() => setIsCanvasOpen(true)} type="button" className="tp-offcanvas-open-btn">
+{/*                       <button onClick={() => setIsCanvasOpen(true)} type="button" className="tp-offcanvas-open-btn">
                         <Menu />
-                      </button>
+                      </button> */}
                     </div>
                   </div>
                 </div>
